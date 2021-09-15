@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    margin-top: 20px;
+}
+
+input {
+    border-top: 10px;
+    background-color: red;
+    border-style: hidden;
+    padding: 10px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 5pt 5pt 10pt brown;
+    margin-bottom: 10px;
+    color: white;
+    border: solid 2px black;
+}
+
+button {
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: solid 1px black;
+    box-shadow: 5pt 5pt 10pt brown;
+}
+
+footer {
+    margin-top: 350px;
+    color: white;
+    text-align: center;
+    font-size: italic;
+}
+
+.resultado{
+    background-color: red; color: red;
+    width: 350px;
+    height: 150px;
+    text-align: center;
+    margin: auto;
+}
+
+p{
+    color: white;
+}
